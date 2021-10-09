@@ -7,25 +7,25 @@
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 1201,
+    "stargazers_count": 1208,
     "open_issues_count": 21,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "owid/covid-19-data",
-    "stargazers_count": 4387,
-    "open_issues_count": 10,
-    "forks_count": 2775
+    "stargazers_count": 4395,
+    "open_issues_count": 12,
+    "forks_count": 2784
   },
   {
     "full_name": "nostalgic-css/NES.css",
-    "stargazers_count": 17756,
+    "stargazers_count": 17761,
     "open_issues_count": 49,
-    "forks_count": 1455
+    "forks_count": 1456
   },
   {
     "full_name": "whoisryosuke/next-mdx-deck",
-    "stargazers_count": 107,
+    "stargazers_count": 109,
     "open_issues_count": 5,
     "forks_count": 21
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "mixmark-io/turndown",
-    "stargazers_count": 5889,
+    "stargazers_count": 5894,
     "open_issues_count": 86,
     "forks_count": 716
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 23424,
-    "open_issues_count": 11,
-    "forks_count": 1109
+    "stargazers_count": 23483,
+    "open_issues_count": 7,
+    "forks_count": 1111
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 74712,
-    "open_issues_count": 5298,
-    "forks_count": 9804
+    "stargazers_count": 74778,
+    "open_issues_count": 5276,
+    "forks_count": 9817
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "styled-components/polished",
-    "stargazers_count": 6981,
-    "open_issues_count": 12,
-    "forks_count": 237
+    "stargazers_count": 6983,
+    "open_issues_count": 13,
+    "forks_count": 238
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 43725,
+    "stargazers_count": 43762,
     "open_issues_count": 5,
-    "forks_count": 5633
+    "forks_count": 5640
   },
   {
     "full_name": "james-wallis/wallis.dev",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "ubenmackin/ACVM",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 9,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "sandrinodimattia/nextjs-auth0-example",
@@ -146,19 +146,19 @@
   {
     "full_name": "vlachoudis/bCNC",
     "stargazers_count": 1214,
-    "open_issues_count": 396,
+    "open_issues_count": 397,
     "forks_count": 450
   },
   {
     "full_name": "winder/Universal-G-Code-Sender",
     "stargazers_count": 1311,
-    "open_issues_count": 175,
-    "forks_count": 653
+    "open_issues_count": 177,
+    "forks_count": 654
   },
   {
     "full_name": "tc39/proposal-temporal",
-    "stargazers_count": 1977,
-    "open_issues_count": 146,
+    "stargazers_count": 1981,
+    "open_issues_count": 152,
     "forks_count": 108
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "davidmerfield/randomColor",
-    "stargazers_count": 5696,
+    "stargazers_count": 5700,
     "open_issues_count": 18,
     "forks_count": 410
   },
   {
     "full_name": "nestjsx/automapper",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 11,
     "forks_count": 8
   }
