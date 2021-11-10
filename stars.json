@@ -7,21 +7,21 @@
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 1271,
-    "open_issues_count": 28,
-    "forks_count": 118
+    "stargazers_count": 1281,
+    "open_issues_count": 29,
+    "forks_count": 119
   },
   {
     "full_name": "owid/covid-19-data",
-    "stargazers_count": 4510,
+    "stargazers_count": 4540,
     "open_issues_count": 5,
-    "forks_count": 2893
+    "forks_count": 2900
   },
   {
     "full_name": "nostalgic-css/NES.css",
-    "stargazers_count": 17812,
-    "open_issues_count": 50,
-    "forks_count": 1466
+    "stargazers_count": 17814,
+    "open_issues_count": 51,
+    "forks_count": 1464
   },
   {
     "full_name": "whoisryosuke/next-mdx-deck",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "mixmark-io/turndown",
-    "stargazers_count": 5932,
+    "stargazers_count": 5939,
     "open_issues_count": 86,
-    "forks_count": 715
+    "forks_count": 714
   },
   {
     "full_name": "levelsio/inflationchart",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 23896,
-    "open_issues_count": 6,
-    "forks_count": 1140
+    "stargazers_count": 23948,
+    "open_issues_count": 9,
+    "forks_count": 1142
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 75619,
-    "open_issues_count": 5328,
-    "forks_count": 9885
+    "stargazers_count": 75771,
+    "open_issues_count": 5339,
+    "forks_count": 9900
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "styled-components/polished",
-    "stargazers_count": 7017,
+    "stargazers_count": 7024,
     "open_issues_count": 12,
     "forks_count": 238
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 44752,
-    "open_issues_count": 6,
-    "forks_count": 5804
+    "stargazers_count": 45018,
+    "open_issues_count": 8,
+    "forks_count": 5841
   },
   {
     "full_name": "james-wallis/wallis.dev",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "seven1m/open-bibles",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "ubenmackin/ACVM",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 9,
     "forks_count": 12
   },
@@ -129,36 +129,36 @@
     "full_name": "wesbos/cobalt2-vscode",
     "stargazers_count": 665,
     "open_issues_count": 26,
-    "forks_count": 243
+    "forks_count": 242
   },
   {
     "full_name": "stackrole/gatsby-starter-foundation",
     "stargazers_count": 193,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 97
   },
   {
     "full_name": "samyk/easel-driver",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "vlachoudis/bCNC",
-    "stargazers_count": 1224,
+    "stargazers_count": 1227,
     "open_issues_count": 403,
     "forks_count": 453
   },
   {
     "full_name": "winder/Universal-G-Code-Sender",
-    "stargazers_count": 1323,
-    "open_issues_count": 177,
-    "forks_count": 661
+    "stargazers_count": 1326,
+    "open_issues_count": 176,
+    "forks_count": 662
   },
   {
     "full_name": "tc39/proposal-temporal",
-    "stargazers_count": 2020,
-    "open_issues_count": 150,
+    "stargazers_count": 2025,
+    "open_issues_count": 155,
     "forks_count": 110
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "davidmerfield/randomColor",
-    "stargazers_count": 5718,
+    "stargazers_count": 5723,
     "open_issues_count": 18,
     "forks_count": 411
   },
   {
     "full_name": "nestjsx/automapper",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 11,
     "forks_count": 8
   }
